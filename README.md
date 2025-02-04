@@ -1,11 +1,11 @@
 
-# XO Sniper Bot
+# OVO Sniper Bot
 
-This repository contains the codebase for the XO Sniper Bot developed by @NewRusCult. Although this project is archived and not intended for further iteration, this README provides a comprehensive overview to help anyone who may want to understand or run the bot.
+This repository contains the codebase for the OVO Sniper Bot developed by @SniperMaker. Although this project is archived and not intended for further iteration, this README provides a comprehensive overview to help anyone who may want to understand or run the bot.
 
 ## Overview
 
-The XO Sniper Bot is designed to interact with the Solana blockchain, purchasing newly minted coins and managing them, based on our replication of orcACR...'s strategy.
+The OVO Sniper Bot is designed to interact with the Solana blockchain, purchasing newly minted coins and managing them, based on our replication of orcACR...'s strategy.
 
 ![Bot Startup](images/bot-running.jpg)
 ## Configuration
@@ -51,8 +51,8 @@ if err := bot.beginJito(); err != nil {
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/newruscult/xo-sniper.git
-    cd xo-sniper
+    git clone https://github.com/snipermaker/ovo-sniper-bot.git
+    cd ovo-sniper-bot
     ```
 
 2. **Install Dependencies**:
